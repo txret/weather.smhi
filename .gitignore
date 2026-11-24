@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.zip
+.pytest_cache/
+dev/symbol_rules/data.pkl
+dev/symbol_rules/raw/

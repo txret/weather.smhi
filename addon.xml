@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="weather.smhi" name="SMHI" version="1.0.0" provider-name="txret">
+	<requires>
+		<import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests" version="2.22.0"/>
+	</requires>
+	<extension point="xbmc.python.weather" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Weather from SMHI (Swedish Meteorological and Hydrological Institute)</summary>
+		<description lang="en_GB">Current conditions from up to five SMHI observation stations of your choice, each value taken from the first station that reports it, combined with SMHI's 10-day point forecast. Supports up to five locations in Sweden and the Nordic region.</description>
+		<disclaimer lang="en_GB">Weather data from SMHI Open Data (opendata.smhi.se), licensed under Creative Commons Attribution 4.0 (CC BY 4.0). This add-on is not affiliated with SMHI.</disclaimer>
+		<platform>all</platform>
+		<language>en sv</language>
+		<license>MIT</license>
+		<source>https://github.com/txret/weather.smhi</source>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>

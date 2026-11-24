@@ -1,0 +1,305 @@
+# Kodi Media Center language file
+# Addon Name: SMHI
+# Addon id: weather.smhi
+# Addon Provider: txret
+msgid ""
+msgstr ""
+"Project-Id-Version: weather.smhi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings: categories
+
+msgctxt "#32011"
+msgid "Location 1"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Location 2"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Location 3"
+msgstr ""
+
+msgctxt "#32014"
+msgid "Location 4"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Location 5"
+msgstr ""
+
+# Settings: current weather
+
+msgctxt "#32020"
+msgid "Display name"
+msgstr ""
+
+msgctxt "#32021"
+msgid "Current weather"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Observation stations"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Edit observation stations..."
+msgstr ""
+
+# Settings: forecast
+
+msgctxt "#32030"
+msgid "Forecast"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Forecast point"
+msgstr ""
+
+msgctxt "#32032"
+msgid "First station's position"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Another station's position"
+msgstr ""
+
+msgctxt "#32034"
+msgid "Custom coordinates"
+msgstr ""
+
+msgctxt "#32035"
+msgid "Forecast station"
+msgstr ""
+
+msgctxt "#32036"
+msgid "Choose forecast station..."
+msgstr ""
+
+msgctxt "#32037"
+msgid "Latitude"
+msgstr ""
+
+msgctxt "#32038"
+msgid "Longitude"
+msgstr ""
+
+# Station picker
+
+msgctxt "#32040"
+msgid "Search stations by name (leave empty for all)"
+msgstr ""
+
+msgctxt "#32041"
+msgid "Loading SMHI station list..."
+msgstr ""
+
+msgctxt "#32042"
+msgid "Could not load the SMHI station list."
+msgstr ""
+
+msgctxt "#32043"
+msgid "No stations match \"%s\"."
+msgstr ""
+
+msgctxt "#32044"
+msgid "Select station"
+msgstr ""
+
+# Observation station list editor
+
+msgctxt "#32045"
+msgid "Add station..."
+msgstr ""
+
+msgctxt "#32046"
+msgid "Move up"
+msgstr ""
+
+msgctxt "#32047"
+msgid "Move down"
+msgstr ""
+
+msgctxt "#32048"
+msgid "Replace..."
+msgstr ""
+
+msgctxt "#32049"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#32050"
+msgid "That station is already in the list."
+msgstr ""
+
+# Settings: help texts
+
+msgctxt "#32060"
+msgid "Name shown in Kodi's location list. Defaults to the first station's name."
+msgstr ""
+
+msgctxt "#32061"
+msgid "Up to 5 SMHI stations in priority order. Each current value comes from the first station that reports it; anything still missing comes from the forecast."
+msgstr ""
+
+msgctxt "#32063"
+msgid "SMHI forecasts are calculated for a point, not a station. Use the first station's position, another station's position, or your own coordinates."
+msgstr ""
+
+msgctxt "#32064"
+msgid "Decimal degrees (WGS84), e.g. latitude 59.3417 and longitude 18.0549."
+msgstr ""
+
+# Moon phases (Today.Moonphase)
+
+msgctxt "#32070"
+msgid "New moon"
+msgstr ""
+
+msgctxt "#32071"
+msgid "Waxing crescent"
+msgstr ""
+
+msgctxt "#32072"
+msgid "First quarter"
+msgstr ""
+
+msgctxt "#32073"
+msgid "Waxing gibbous"
+msgstr ""
+
+msgctxt "#32074"
+msgid "Full moon"
+msgstr ""
+
+msgctxt "#32075"
+msgid "Waning gibbous"
+msgstr ""
+
+msgctxt "#32076"
+msgid "Last quarter"
+msgstr ""
+
+msgctxt "#32077"
+msgid "Waning crescent"
+msgstr ""
+
+# Weather symbols (32100 + SMHI Wsymb2 code)
+
+msgctxt "#32101"
+msgid "Clear sky"
+msgstr ""
+
+msgctxt "#32102"
+msgid "Nearly clear sky"
+msgstr ""
+
+msgctxt "#32103"
+msgid "Variable cloudiness"
+msgstr ""
+
+msgctxt "#32104"
+msgid "Half clear sky"
+msgstr ""
+
+msgctxt "#32105"
+msgid "Cloudy sky"
+msgstr ""
+
+msgctxt "#32106"
+msgid "Overcast"
+msgstr ""
+
+msgctxt "#32107"
+msgid "Fog"
+msgstr ""
+
+msgctxt "#32108"
+msgid "Light rain showers"
+msgstr ""
+
+msgctxt "#32109"
+msgid "Moderate rain showers"
+msgstr ""
+
+msgctxt "#32110"
+msgid "Heavy rain showers"
+msgstr ""
+
+msgctxt "#32111"
+msgid "Thunderstorm"
+msgstr ""
+
+msgctxt "#32112"
+msgid "Light sleet showers"
+msgstr ""
+
+msgctxt "#32113"
+msgid "Moderate sleet showers"
+msgstr ""
+
+msgctxt "#32114"
+msgid "Heavy sleet showers"
+msgstr ""
+
+msgctxt "#32115"
+msgid "Light snow showers"
+msgstr ""
+
+msgctxt "#32116"
+msgid "Moderate snow showers"
+msgstr ""
+
+msgctxt "#32117"
+msgid "Heavy snow showers"
+msgstr ""
+
+msgctxt "#32118"
+msgid "Light rain"
+msgstr ""
+
+msgctxt "#32119"
+msgid "Moderate rain"
+msgstr ""
+
+msgctxt "#32120"
+msgid "Heavy rain"
+msgstr ""
+
+msgctxt "#32121"
+msgid "Thunder"
+msgstr ""
+
+msgctxt "#32122"
+msgid "Light sleet"
+msgstr ""
+
+msgctxt "#32123"
+msgid "Moderate sleet"
+msgstr ""
+
+msgctxt "#32124"
+msgid "Heavy sleet"
+msgstr ""
+
+msgctxt "#32125"
+msgid "Light snowfall"
+msgstr ""
+
+msgctxt "#32126"
+msgid "Moderate snowfall"
+msgstr ""
+
+msgctxt "#32127"
+msgid "Heavy snowfall"
+msgstr ""
